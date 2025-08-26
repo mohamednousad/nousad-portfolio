@@ -4,7 +4,7 @@
 
 Nousad is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://codewithsadee.github.io/nousad-portfolio/"><strong>➥ Live Demo</strong></a>
+<a href="https://mohamednousad.github.io/nousad-portfolio"><strong>➥ Live Demo</strong></a>
 
 </div>
 
