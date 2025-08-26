@@ -1,13 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/nousad-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/nousad-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/nousad-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BbCLWdF3Bnc?style=social)](https://youtu.be/BbCLWdF3Bnc)
-
-  <br />
-  <br />
 
   <h2 align="center">Nousad - Personal Portfolio Website</h2>
 
